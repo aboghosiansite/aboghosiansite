@@ -87,7 +87,12 @@ img {
 .imgset img {
     max-height: 300px;
     max-width: 300px;
-    padding: 0px;
+    padding: 10px;
+}
+
+.sci>img {
+    max-width: 500px;
+    margin: 0 auto;
 }
 
 .footerimage>img {
