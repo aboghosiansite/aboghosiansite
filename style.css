@@ -1,7 +1,7 @@
 body {
     padding: 1em;
-    /* font-family: 'Franklin Gothic', 'Arial Narrow', Arial, sans-serif; */
-    font-family: 'Almarai', 'Padauk', 'Inconsolata';
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, 'Trebuchet MS', sans-serif;
+    /* font-family: 'Almarai', 'Padauk', 'Inconsolata'; */
     background-color: rgb(239, 240, 242);
 }
 
@@ -35,7 +35,7 @@ a:visited {
 a:hover {
     color: black;
     font-family: "inconsolata";
-    font-size: 1.15em
+    font-size: 1.17em
 }
 
 
