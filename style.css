@@ -95,6 +95,10 @@ img {
     margin: 0 auto;
 }
 
+.title {
+    font-weight: 600;
+}
+
 .footerimage>img {
     position: fixed;
     right: -300px;
